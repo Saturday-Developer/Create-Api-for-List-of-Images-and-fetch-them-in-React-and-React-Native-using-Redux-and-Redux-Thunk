@@ -13,7 +13,7 @@ Web and WebMobileApp are inside SourceCode folder
   
 similarly use command npm i for web and WebMobileApp
 
-in WebMobileApp add your local ip address for fetch
+in WebMobileApp/ACTIONS/fetchMoviesList add your local ip address inside fetch fetch function
 
 to run web use npm start
 
@@ -22,4 +22,4 @@ to run WebMobileApp use react-native run-android
 
 
 
-Before run make sure you havew installed all dependencies that require for environment  
+Before run make sure you have installed all dependencies that require for environment  
