@@ -1,11 +1,12 @@
 Step to Reproduce:-
 
 
-There are 3 folders:-
+There are 3 main folders:-
 1. api
 2. web
 3. WebMobileApp
 
+Web and WebMobileApp are inside SourceCode folder
   cd api
   then run command npm i
   after getting node module folder run command node server
